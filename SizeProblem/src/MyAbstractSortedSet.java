@@ -33,9 +33,7 @@ public abstract class MyAbstractSortedSet<E> extends AbstractSet<E> {
     public abstract boolean remove(Object o);
     public abstract void clear();
     public abstract Iterator<E> iterator();
-    //public abstract int size();
+    public abstract int size();
 
 }
 
-
-//add,
